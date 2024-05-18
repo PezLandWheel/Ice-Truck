@@ -24,6 +24,7 @@
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/calculadora.css">
 </head>
 
 <body>
@@ -151,7 +152,7 @@
                         <div class="position-relative bg-primary rounded-circle mt-n3 mb-4 p-3" style="width: 150px; height: 150px;">
                             <img class="rounded-circle w-100 h-100" src="img/product-3.jpg" style="object-fit: cover;">
                         </div>
-                        <h5 class="font-weight-bold mb-4">Cono de helado de flor</h5>
+                        <h5 class="font-weight-bold mb-4">Helado en flor</h5>
                         <a href="" class="btn btn-sm btn-secondary">comprar ahora</a>
                     </div>
                 </div>
@@ -187,7 +188,7 @@
                         <div class="position-relative bg-primary rounded-circle mt-n3 mb-4 p-3" style="width: 150px; height: 150px;">
                             <img class="rounded-circle w-100 h-100" src="img/product-1.jpg" style="object-fit: cover;">
                         </div>
-                        <h5 class="font-weight-bold mb-4">cono bolas extra</h5>
+                        <h5 class="font-weight-bold mb-4">Cono bolas extra</h5>
                         <a href="" class="btn btn-sm btn-secondary">comprar ahora</a>
                     </div>
                 </div>
@@ -199,7 +200,7 @@
                         <div class="position-relative bg-primary rounded-circle mt-n3 mb-4 p-3" style="width: 150px; height: 150px;">
                             <img class="rounded-circle w-100 h-100" src="img/product-2.jpg" style="object-fit: cover;">
                         </div>
-                        <h5 class="font-weight-bold mb-4">Helado elexion de sabor</h5>
+                        <h5 class="font-weight-bold mb-4">Helado Sorpresa</h5>
                         <a href="" class="btn btn-sm btn-secondary">comprar ahora</a>
                     </div>
                 </div>
@@ -211,7 +212,7 @@
                         <div class="position-relative bg-primary rounded-circle mt-n3 mb-4 p-3" style="width: 150px; height: 150px;">
                             <img class="rounded-circle w-100 h-100" src="img/product-3.jpg" style="object-fit: cover;">
                         </div>
-                        <h5 class="font-weight-bold mb-4">flor de loto </h5>
+                        <h5 class="font-weight-bold mb-4">Flor de loto</h5>
                         <a href="" class="btn btn-sm btn-secondary">comprar ahora</a>
                     </div>
                 </div>
@@ -221,6 +222,51 @@
             </div>
         </div>
     </div>
+    
+    <!--Calculadora-->
+    <div class="calculator">
+        <div class="container">
+            <div class="container py-5">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <h1 class="section-title position-relative text-center mb-5">Suma Tus Pedidos Aqui</h1>
+                    </div>
+                </div>
+            
+                <input type="text" class="display" disabled>
+
+                <!-- keys -->
+                <div class="keys">
+                    <div class="row">
+                        <button value="7">7</button>
+                        <button value="8">8</button>
+                        <button value="9">9</button>
+                        <button value="+" class="operator">+</button>
+                    </div>
+                    <div class="row">
+                        <button value="4">4</button>
+                        <button value="5">5</button>
+                        <button value="6">6</button>
+                        <button value="-" class="operator">-</button>
+                    </div>
+                    <div class="row">
+                        <button value="1">1</button>
+                        <button value="2">2</button>
+                        <button value="3">3</button>
+                        <button value="*" class="operator">*</button>
+                    </div>
+                    <div class="row">
+                        <button value="C" class="operator">C</button>
+                        <button value="0">0</button>
+                        <button value="/" class="operator">/</button>
+                        <button value="=" class="operator">=</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
     <!-- Products End -->
 
 
@@ -282,6 +328,7 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <script src="js/calculadora.js"></script>
 </body>
 
 </html>
