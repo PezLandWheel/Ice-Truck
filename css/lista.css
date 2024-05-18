@@ -6,10 +6,10 @@
     max-width: 600px;
     margin: auto;
     text-align: center;
-    border: 1px solid #000;
+    border: 1px solid #e183c5;
     border-radius: 5px;
     padding: 10px;
-    background-color: #ffc107;
+    background-color: #ea7edc;
   }
   
   input {
@@ -24,7 +24,7 @@
     border-radius: 50px;
     border: none;
     cursor: pointer;
-    background-color: #000;
+    background-color: #c733de;
     transition: background-color .5s;
     color: #fff;
   }
@@ -47,7 +47,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-color: firebrick;
+    background-color: rgb(79, 2, 66);
     border-radius: 100%;
     text-align: center;
     color: #fff;
@@ -56,5 +56,5 @@
   }
   
   span:hover {
-    background-color: darkred;
+    background-color: rgb(88, 7, 61);
   }
