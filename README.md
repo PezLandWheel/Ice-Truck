@@ -1,1 +1,10 @@
-# Ice-Truck
+
+# Ice-Truck - Web Site - Proyect
+
+Nuestro proyecto final para la clase consistió en la creación de una página web ficticia dedicada a la venta de helados, llamada ICE TRUK . Este sitio web fue diseñado con el objetivo de ofrecer una experiencia de usuario intuitiva y visualmente atractiva, simulando un entorno de comercio electrónico donde los visitantes pueden explorar una amplia variedad de sabores y tipos de helados. Utilizamos herramientas de diseño web modernas para crear una interfaz interactiva y responsiva, asegurando que el sitio se vea y funcione perfectamente tanto en dispositivos de escritorio como móviles. La estética del sitio incorpora colores vibrantes y gráficos llamativos que evocan la frescura y la indulgencia asociadas con el consumo de helados.
+
+Además de la presentación visual, nos centramos en la organización del contenido y la funcionalidad del sitio. Incluimos secciones detalladas sobre los distintos productos, sus ingredientes y opciones de personalización, así como un sistema de búsqueda y filtros para facilitar la navegación. Aunque la página es ficticia y no permite transacciones reales, simulamos un proceso de compra completo, desde la selección de productos hasta un carrito de compras y una página de confirmación de pedido. Este proyecto no solo demuestra nuestras habilidades en diseño web y experiencia de usuario, sino también nuestra capacidad para conceptualizar y desarrollar un sitio web de comercio electrónico funcional y atractivo.
+
+
+![Logo](https://repositorio.umariana.edu.co/themes/Mirage2//images/logo.png)
+
